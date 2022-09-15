@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="160px" width="auto">
 
-<h1 align="left"><strong> Hello, I'm <a href=""> Prayansh Maheshwari.</a></strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" height="30px" width="10px">
+<h1 align="left"><strong> Hello, I'm <a href="https://github.com/Prayansh26"> Prayansh Maheshwari.</a></strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" height="30px" width="10px">
 </h1>
 
 
